@@ -16,3 +16,4 @@ Then, move the downloaded images to
 ```
 python search.py
 ```
+It searches for images similar to Abyssinian.

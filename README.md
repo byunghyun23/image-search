@@ -1,4 +1,4 @@
-# Image Search with InceptionV3
+# Image Search Using InceptionV3
 
 ## Introduction
 This is a TensorFlow implementation for Image Search.
